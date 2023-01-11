@@ -1,6 +1,6 @@
 {
   "name": "@openwishlist/preview",
-  "version": "0.164.0",
+  "version": "0.165.0",
   "description": "Serverless link preview api",
   "main": "index.js",
   "scripts": {
@@ -61,6 +61,6 @@
   },
   "engines": {
     "node": "16.x",
-    "npm": "6.x"
+    "npm": "9.x"
   }
 }
