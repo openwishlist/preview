@@ -1,6 +1,6 @@
 {
   "name": "@openwishlist/preview",
-  "version": "0.674.0",
+  "version": "0.675.0",
   "description": "Serverless link preview api",
   "main": "index.js",
   "scripts": {
@@ -44,7 +44,7 @@
     "ts-jest": "29.1.2",
     "ts-node": "10.9.2",
     "typeconv": "2.3.1",
-    "typescript": "4.9.4"
+    "typescript": "4.9.5"
   },
   "dependencies": {
     "@types/lodash": "4.17.0",
